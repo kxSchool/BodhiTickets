@@ -1,0 +1,1 @@
+factorysandseries=[{"factory":"\u52b3\u65af\u83b1\u65af","series":"Ghost [\u53e4\u601d\u7279]","count":"8"},{"factory":"\u52b3\u65af\u83b1\u65af","series":"Phantom [\u5e7b\u5f71]","count":"12"},{"factory":"\u52b3\u65af\u83b1\u65af","series":"Wraith [\u9b45\u5f71]","count":"1"}];

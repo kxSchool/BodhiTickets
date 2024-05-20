@@ -1,0 +1,1 @@
+ yearsandmodels  = [{"id":"23787","year":"2014","model_type":"CLA 45 AMG 4MATIC","model":"2.0T \u53cc\u79bb\u5408"},{"id":"25598","year":"2015","model_type":"CLA 45 AMG 4MATIC","model":"2.0T \u53cc\u79bb\u5408"}];

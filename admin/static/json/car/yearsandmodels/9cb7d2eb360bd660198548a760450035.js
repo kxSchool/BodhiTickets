@@ -1,0 +1,1 @@
+ yearsandmodels  = [{"id":"25276","year":"2015","model_type":"AMG GT S","model":"4.0T \u53cc\u79bb\u5408"},{"id":"25533","year":"2016","model_type":"AMG GT","model":"4.0T \u53cc\u79bb\u5408"}];

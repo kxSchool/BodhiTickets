@@ -1,0 +1,1 @@
+ yearsandmodels  = [{"id":"25525","year":"2016","model_type":"Bentayga [\u6dfb\u8d8a]","model":"6.0T \u624b\u81ea\u4e00\u4f53 \u6807\u51c6\u7248"},{"id":"25526","year":"2016","model_type":"Bentayga [\u6dfb\u8d8a]","model":"6.0T \u624b\u81ea\u4e00\u4f53 First Edition \u9650\u91cf\u7248"}];

@@ -1,0 +1,1 @@
+categorybrand = [{"cat_id":"51","brand_id":"54","sort":"0","name":"\u9b45\u9014"},{"cat_id":"51","brand_id":"53","sort":"0","name":"\u79d1\u6613\u5b89"},{"cat_id":"51","brand_id":"52","sort":"0","name":"\u9b54\u884c"},{"cat_id":"51","brand_id":"58","sort":"0","name":"\u94c1\u5c06\u519b"}];

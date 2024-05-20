@@ -1,0 +1,1 @@
+ yearsandmodels  = [{"id":"13418","year":"2013","model_type":"\u5c0f\u6d77\u72eeX30","model":"1.3 \u624b\u52a8 \u6807\u51c6\u578b"},{"id":"13419","year":"2013","model_type":"\u5c0f\u6d77\u72eeX30","model":"1.3 \u624b\u52a8 \u8212\u9002\u578b"},{"id":"18211","year":"2015","model_type":"\u5c0f\u6d77\u72eeX30","model":"1.3 \u624b\u52a8 \u65d7\u8230\u578b"}];

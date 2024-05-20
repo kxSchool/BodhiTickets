@@ -1,0 +1,1 @@
+ yearsandmodels  = [{"id":"16067","year":"2014","model_type":"E20(\u77e5\u8c46)","model":"ZOTYE E20\/\u77e5\u8c46\u7535\u52a8\u8f66"}];

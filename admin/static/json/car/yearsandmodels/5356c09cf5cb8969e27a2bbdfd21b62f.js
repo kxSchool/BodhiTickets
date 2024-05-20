@@ -1,0 +1,1 @@
+ yearsandmodels  = [{"id":"22296","year":"2004","model_type":"RX-8","model":"1.3 \u81ea\u52a8"},{"id":"22297","year":"2008","model_type":"RX-8","model":"1.3 \u624b\u52a8"},{"id":"22298","year":"2008","model_type":"RX-8","model":"1.3 \u624b\u81ea\u4e00\u4f53"},{"id":"23636","year":"2004","model_type":"RX-8","model":"1.3 \u624b\u52a8"}];

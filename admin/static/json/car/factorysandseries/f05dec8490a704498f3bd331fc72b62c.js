@@ -1,0 +1,1 @@
+factorysandseries=[{"factory":"\u4e1c\u5357\u6c7d\u8f66","series":"\u51ef\u9886","count":"4"},{"factory":"\u514b\u83b1\u65af\u52d2","series":"Caliber [\u9177\u535a]","count":"4"},{"factory":"\u514b\u83b1\u65af\u52d2","series":"Journey [\u9177\u5a01]","count":"9"}];

@@ -1,0 +1,1 @@
+categorybrand = [{"cat_id":"79","brand_id":"119","sort":"0","name":"\u76d6\u8328"},{"cat_id":"79","brand_id":"139","sort":"0","name":"INA"},{"cat_id":"79","brand_id":"105","sort":"0","name":"\u6cf0\u5c3c\u80af"},{"cat_id":"79","brand_id":"140","sort":"0","name":"\u5409\u660e\u7f8e"},{"cat_id":"79","brand_id":"141","sort":"0","name":"\u6613\u5b8f"}];

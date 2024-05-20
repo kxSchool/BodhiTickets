@@ -1,0 +1,1 @@
+factorysandseries=[{"factory":"\u6c5f\u897f\u4e94\u5341\u94c3","series":"D-MAX","count":"7"},{"factory":"\u6c5f\u897f\u4e94\u5341\u94c3","series":"mu-X","count":"12"},{"factory":"\u6c5f\u897f\u4e94\u5341\u94c3","series":"\u745e\u8fc8","count":"3"}];

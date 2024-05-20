@@ -1,0 +1,1 @@
+factorysandseries=[{"factory":"\u5982\u864e\u6c7d\u8f66","series":"CTR","count":"1"},{"factory":"\u5982\u864e\u6c7d\u8f66","series":"XL","count":"1"}];

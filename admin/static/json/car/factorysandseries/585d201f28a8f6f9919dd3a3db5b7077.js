@@ -1,0 +1,1 @@
+factorysandseries=[{"factory":"\u5927\u8fea\u6c7d\u8f66","series":"\u90fd\u5e02\u5a01\u83f1SUV","count":"12"},{"factory":"\u5927\u8fea\u6c7d\u8f66","series":"\u90fd\u5e02\u9a8f\u9a6cSUV","count":"8"},{"factory":"\u5927\u8fea\u6c7d\u8f66","series":"\u9738\u9053","count":"10"},{"factory":"\u5927\u8fea\u6c7d\u8f66","series":"\u987a\u9a70\u76ae\u5361","count":"4"}];

@@ -1,0 +1,1 @@
+ yearsandmodels  = [{"id":"22514","year":"2012","model_type":"Chairman [\u4e3b\u5e2d]","model":"2.8 \u624b\u81ea\u4e00\u4f53 CW600\u6807\u51c6\u7248"},{"id":"22515","year":"2012","model_type":"Chairman [\u4e3b\u5e2d]","model":"3.6 \u624b\u81ea\u4e00\u4f53 CW700L\u52a0\u957f\u7248"}];

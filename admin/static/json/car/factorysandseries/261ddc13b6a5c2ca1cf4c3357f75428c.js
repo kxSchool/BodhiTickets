@@ -1,0 +1,1 @@
+factorysandseries=[{"factory":"\u4e00\u6c7d\u8f7f\u8f66","series":"\u6b27\u6717","count":"10"}];

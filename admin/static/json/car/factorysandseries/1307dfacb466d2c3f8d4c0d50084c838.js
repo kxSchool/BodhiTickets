@@ -1,0 +1,1 @@
+factorysandseries=[{"factory":"\u5df4\u535a\u65af\u6c7d\u8f66","series":"CLS-Class [CLS\u7ea7]","count":"1"},{"factory":"\u5df4\u535a\u65af\u6c7d\u8f66","series":"M-Class [M\u7ea7]","count":"2"},{"factory":"\u5df4\u535a\u65af\u6c7d\u8f66","series":"S-Class [S\u7ea7]","count":"6"},{"factory":"\u5df4\u535a\u65af\u6c7d\u8f66","series":"SLK-Class [SLK\u7ea7]","count":"1"}];
